@@ -1,0 +1,89 @@
+/* General Styles */
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 10px;
+    border: none;
+}
+
+/* Upload Image Section */
+.upload-box {
+    border: 3px dashed #ccc;
+    
+    border-radius: 20px;
+    background-color: #f9f9f9;
+}
+
+.upload-icon {
+    font-size: 40px;
+    color: #007bff;
+    
+
+
+
+}
+
+/* Form Inputs */
+.form-label {
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.form-control,
+.form-select {
+    border-radius: 10px;
+    box-shadow: none;
+    border: 1px solid #ccc;
+}
+
+/* Gender Radio Buttons */
+.form-check-input {
+    margin-top: 4px;
+}
+
+
+/* Range Sliders */
+.range-value {
+    font-weight: 500;
+    text-align: center;
+}
+
+/* Choose Color */
+.color-input {
+    height: 40px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+/* Template Selection */
+.d-flex.flex-wrap .form-check {
+    margin-right: 15px;
+}
+
+/* Terms & Conditions */
+.form-check-label {
+    font-size: 14px;
+}
+.text-end {
+    border-radius: 10px;
+    box-shadow: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Buttons */
+.text-center {
+    margin-top: 20px;
+}
+
+.btn {
+    border-radius: 6px;
+    padding: 10px 20px;
+    font-weight: 500;
+}
